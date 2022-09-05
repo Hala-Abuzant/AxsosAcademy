@@ -1,0 +1,105 @@
+.container{
+    
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+   
+}
+
+
+.head{
+    width: 90%;
+    height: 90px;
+    background-color: rgb(206, 199, 199);
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left{
+    margin-top: 30px;
+    padding-left: 100px;
+   
+}
+
+.leftup{
+    
+    outline: 3px rgb(14, 13, 13) solid;
+    width: 600px;
+    height: 180px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 30px; 
+    
+}
+
+.leftleft1{
+    width: 150px;
+}
+.leftright1{
+    align-items: center;
+    padding-top: 50px;
+    padding-right: 20px;
+}
+.leftright2{
+    align-items: center;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 50px;
+}
+
+
+
+.leftdown{
+    margin-top: 20px;
+    /* margin-left: 100px; */
+    outline: 3px rgb(14, 13, 13) solid;
+    width: 600px;
+    height: 180px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+
+.leftright{
+    width: 100%;
+    display: flex;
+    /* padding-right: 100px; */
+    
+}
+
+.right{
+    margin-top: 30px;
+    height: 200px;
+    width: 220px;
+    outline: 3px rgb(14, 13, 13) solid;
+    margin-left: 30px;
+    padding-left: 20px;
+   
+}
+
+.like{
+    background-color: #ffd966;
+    box-shadow: 2px 2px black;
+    width: 70px;
+    height: 30px;
+}
+
+.add{
+    background-color: #93c47d;
+    box-shadow: 2px 2px black; 
+    width:120px;
+    height: 30px;
+}
+
+.logout{
+
+    background-color:#2b78e4 ;
+    box-shadow: 2px 2px black; 
+}

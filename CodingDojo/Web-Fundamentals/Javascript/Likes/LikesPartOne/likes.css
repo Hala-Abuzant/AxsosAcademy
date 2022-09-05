@@ -1,0 +1,58 @@
+.container
+{
+    width: 40%;
+    height: 150px;
+    outline: 2px black solid;
+    margin: 0 auto;
+}
+
+.like
+{
+    width: 40px;
+    height: 25px;
+    background-color: #ffd966;
+    box-shadow: 2px 2px black;
+    
+}
+.rightright{
+    display: flex;
+    padding-top: 40px;
+}
+
+.up{
+    display: flex;
+    justify-content: space-around;
+}
+.right{
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+
+.leftleft{
+    display: flex;
+}
+.left{
+    padding-top: 20px;
+}
+ 
+.down{
+    padding-left: 30px;
+}
+.rightleft
+{
+display: flex;
+justify-content: space-between;
+width: 80px;
+padding-top: 25px;
+}
+
+.zero{
+padding-top: 7px;
+} 
+
+
+
+ /* .zero p{
+ padding-bottom:5px;
+}  */
