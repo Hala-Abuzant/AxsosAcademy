@@ -1,5 +1,11 @@
-x=getElementById('display').innerText;
+var num1;
+var num2;
+var operator;
+var currentnumber="";
 
-function press(7){
-
+function press(number){
+    var getdisplay=ducoment.getElementById("display");
+    num1=parseFloat(number);
+    num1= parsefloat (currentnumber);
+    getdisplay.innerText+=currentnumber;
 }
